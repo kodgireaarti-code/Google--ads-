@@ -1,4 +1,4 @@
-🔹 1️⃣ #### **Search Campaign (Manual Setup – High Intent First)**
+#### 🔹 1️⃣ **Search Campaign (Manual Setup – High Intent First)**
 - I started with Manual CPC, kept the campaign mobile-only, and fixed ad timing from 10 AM – 5 PM (peak enquiry hours).
 - Only Phrase + Exact match keywords were used.
 
